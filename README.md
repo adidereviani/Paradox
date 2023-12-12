@@ -1,4 +1,3 @@
-# Paradox assignment
 ## In this task, I had to create a conversational AI assistant for parents interested in the fictional GenAI Summer Camp, using Large Language Model (LLM) technology
 ### The technical framework of my code consists of a series of function definitions that integrate with an AI model to manage and respond to user interactions for a summer camp. The run_router_prompt function acts as a classifier, utilizing the AI to discern the user's intent by analyzing their input and categorizing it into one of two possible outcomes: a general inquiry about the camp (0) or an intent to sign up a child (1). This binary classification is pivotal for the subsequent logic flow, directing the conversation down the appropriate response path.
 
